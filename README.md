@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cZnpr7Ns)
-# E4040 2024 Fall Project
-## Deep Cluster
-This code implements the unsupervised training of convolutional neural networks, as described in the report [E4040.2024Fall.SZQA.report.zs2699.yq2411.jz3849].
+#  Deep Cluster
+This code implements the unsupervised training of convolutional neural networks.
 
 Moreover, we provide the evaluation protocol codes we used in the paper:
 * Pascal VOC classification
@@ -96,9 +95,6 @@ The folder to store screenshots for need.
 .
 ├── README.md
 ├── figures
-│   ├── gcp_work_example_screenshot_1.png
-│   ├── gcp_work_example_screenshot_2.png
-│   ├── gcp_work_example_screenshot_3.png
 │   └── pipeline.png
 ├── images
 │   └── conv_conv_pw_13_filter_5_top9_grid.png
@@ -143,5 +139,4 @@ The folder to store screenshots for need.
         ├── layer_conv_pw_7_filter_5_GA.png
         └── layer_conv_pw_9_filter_5_GA.png
 
-6 directories, 42 files
 ```
