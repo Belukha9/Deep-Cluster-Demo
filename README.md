@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cZnpr7Ns)
-#  Deep Cluster
+#  Deep Cluster Demo
 This code implements the unsupervised training of convolutional neural networks.
 
 Moreover, we provide the evaluation protocol codes we used in the paper:
